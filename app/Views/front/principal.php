@@ -60,7 +60,7 @@
         <div class="col-sm-6 col-lg-3 mb-4">
   <div class="card">
     <img class="card-img-top" src="assets/img/p1.png" alt="Imagen del producto">
-    <div class="card-body bg-light">
+    <div class="card-body">
       <h3 class="card-title">PC COMPLETA</h3>
       <p class="card-text">PC Armada AMD Ryzen 3 5300G 8GB 480GB</p>
       <a href="#" class="btn btn-sm btn-primary">Comprar</a>
@@ -73,7 +73,7 @@
 </div>
 
 <!-- Modal con los detalles del producto -->
-<div class="modal fade" id="modalDetalles1" tabindex="-1" aria-labelledby="modalDetallesLabel1" aria-hidden="true">
+<div class="modal fade text-dark" id="modalDetalles1" tabindex="-1" aria-labelledby="modalDetallesLabel1" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -125,7 +125,7 @@ GabineteKit - 500W Gen.</p>
         <h5 class="modal-title" id="modalDetallesLabel2">Detalle del Producto</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body text-dark">
         <img src="assets/img/p2.png" class="img-fluid mb-3" alt="Producto">
         <p><strong>Nombre:</strong> OPCION4</p>
         <p><strong>Precio:</strong> $25.000</p>
@@ -169,7 +169,7 @@ Fuente500 W</p>
         <h5 class="modal-title" id="modalDetallesLabel3">Detalle del Producto</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body text-dark">
         <img src="assets/img/p3.png" class="img-fluid mb-3" alt="Producto">
         <p><strong>Nombre:</strong> OPCION4</p>
         <p><strong>Precio:</strong> $25.000</p>
@@ -215,7 +215,7 @@ GabineteKit - 500W Gen.</p>
         <h5 class="modal-title" id="modalDetallesLabel1">Detalle del Producto</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body text-dark">
         <img src="assets/img/p4.png" class="img-fluid mb-3" alt="Producto">
         <p><strong>Nombre:</strong> OPCION4</p>
         <p><strong>Precio:</strong> $25.000</p>
